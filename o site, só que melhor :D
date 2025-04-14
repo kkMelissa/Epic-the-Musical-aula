@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>aula massa uau bacana yipee</title>
+    <style>
+        .img-container {
+          text-align: center;
+          background-color: rgb(14, 21, 85);
+          color:white;
+        }
+        #footer {
+    background-color: rgb(11, 15, 61);
+padding: 20px;
+text-align: center;
+border-bottom: 0px solid #f8da32;
+color:white;
+}
+      </style>
+  
+</head>
+<header>
+    <header style="background-color: rgb(17, 17, 128);">
+    <center><h1><span style="color:rgb(255, 255, 255)">CE</span><span style="color:red">EPP</span><span style="color:rgb(255, 255, 255)">LG</span></h1></center>
+</header>
+
+<body>
+    <div class="img-container">
+    <hr>
+    <p><h2>aqui, vamos falar de algo que eu gosto muito que se chama "Epic the musical", um musical sobre o conto da Odisseia de Homero.</h2></p>  
+    <p><h3>o musical foi feito por um cara chamado Jorge Rivera-Herrans, homem de 27 anos nascido em Porto Rico<br>Aqui temos ele, criador de Epic the Musical e Artista</h3></p>
+    <img src="https://i.scdn.co/image/ab6761610000e5eb33004c3ff7aa2a93db21b6c1">
+
+    <p><h2>o musical conta sobre a historia de <span style=" color:rgb(148, 209, 250)">Odisseu</span>, desde o final da terra de <span style="color:rgb(67, 41, 185)">Troia</span> e até sua casa, <span style="color:rgb(136, 17, 17)">Itaca</span>, encontrando inimigos como deuses e criaturas que ele consegue(na maioria das vezes) derrotar<br>Aqui temos uma das minhas artes favoritas do protagonista,<span style=" color:rgb(148, 209, 250)"> Odisseu</span>, feito pela Gigi e postado no Youtube</h2></p>
+    <img src="https://preview.redd.it/uqyfhjugr74d1.jpeg?auto=webp&s=37f3eb81132fe7e838073b9c66d65a94d433d233">
+
+    <h2>depois de terminar a guerra de <span style="color:rgb(67, 41, 185)">Troia</span>, <span style=" color:rgb(148, 209, 250)">Odisseu</span> e seus homons tiveram que parar por uma ilha com uma caverna, encontrando com <span style="color:rgb(153, 9, 9)">Polifemo</span>, um ciclope filho de <span style=" color:blue">Poseidon</span>, que acaba matando alguns de seus homens mas conseguem fugir quando <span style=" color:rgb(148, 209, 250)"> Odisseu</span> mente seu nome e cega ele, mas comete o erro de falar seu nome quando começam a sair da caverna<br> Ilustração feita por Ximena no Youtube</h2></p>
+    <img src="https://i.ytimg.com/vi/b3Bx1W-Z0Pg/maxresdefault.jpg">
+
+    <p><h2>quando estavam voltando, acabam sendo atrapalhados por ninguém mais, ninguém menos que o rei dos mares <span style=" color:blue">Poseidon</span>, querendo se vingar pelo seu filho <span style="color:rgb(153, 9, 9)">Polifemo</span> e fazer <span style=" color:rgb(148, 209, 250)">Odisseu</span> pagar por ter cegado ele, matando mais de 500 homens e só deixando um barco, que era o que <span style=" color:rgb(148, 209, 250)">Odisseu</span> estava, mas por sorte conseguem escapar por causa da bolsa de vento que o deus Aeolus deu para ele<br>primeira ilustração feita por Neal Ilustraitor no Youtube e segunda por Gigi no Youtube</h2></p>
+    <img src="https://i.redd.it/g6h8ga4qigjd1.jpeg">
+    <img src="https://media.tenor.com/LAIgSsuXNssAAAAM/epic-epic-the-musical.gif">
+
+    <p><h2>aqui temos a deusa feiticeira <span style="color:rgb(255, 69, 230)">Circe</span>, famosa por transformar homens em porcos e viver com suas ninfas na ilha de <span style="color:rgb(245, 204, 23)">Eana</span><br> ilustração feita por Gigi no Youtube</h2></p>
+    <img src="https://images.squarespace-cdn.com/content/v1/5e6c6d81898be713ac68c06e/586d31b8-b233-4c25-9492-23ec287542f0/43.png">
+    
+    <h2>depois de sair da ilha de <span style="color:rgb(245, 204, 23)">Eana</span>, <span style=" color:rgb(148, 209, 250)">Odisseu</span> e seus homens passaram pelo tão temido <span style="color:rgb(75, 88, 83)">Submundo</span>, em busca do famoso profeta chamado <span style="color:rgb(93, 187, 156)">Tiresias</span><br> primeira ilustração feita por ??? e segunda ilustração feita por Ximena no Youtube</h2></p>
+    <img src="https://i.scdn.co/image/ab67616d0000b273fba95a78235cb1d98f516b20">
+    <img src="https://i.redd.it/p5d0kducnuce1.jpeg">
+    </div>
+
+    <div id="footer">
+                    <h1>Melissa Maria e Maria Clara de telespectadora Ɛ></h1>
+    </div>
+</body>
+</html>
